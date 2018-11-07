@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kawasaki-n/report-visitor.svg?branch=master)](https://travis-ci.org/kawasaki-n/report-visitor)
+
 # About
 If you use Google Analytics and Slack, you can get the report of visitors.
 
