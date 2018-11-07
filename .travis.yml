@@ -9,4 +9,4 @@ install:
   - pip install slackweb
 
 script:
-  - main.py
+  - python main.py
