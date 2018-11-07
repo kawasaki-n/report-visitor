@@ -15,7 +15,7 @@ git clone https://github.com/kawasaki-n/report-visitor.git
 
 # Usage
 1. Enable Reporting API v4 and get key json file and view id
-cf) https://developers.google.com/analytics/devguides/reporting/core/v4/quickstart/service-py?hl=ja
+https://developers.google.com/analytics/devguides/reporting/core/v4/quickstart/service-py?hl=ja
 
 2. Access Slack API and create Apps and get Webhook URL
 
